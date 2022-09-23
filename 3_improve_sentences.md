@@ -13,17 +13,6 @@ In theory, self is pretty obvious. But in practice, it's easy for tricky situati
 
 # Examples of self
 
-```
-class Player
-  class << self 
-    def method1
-    end
-
-    def method2
-    end
-  end
-end
-```
 
 ```
 class MyClass

@@ -8,18 +8,21 @@
 **HTML** (Hyper Text Markup Language) is a hypertext markup language, which is used to create web pages. It is composed of semantic and structural elements, which define how parts of the document (headings, paragraphs, lists, images etc.) should be presented in the browser.
 
 ![HTML](https://github.com/zidajoseph/assets/blob/master/images/HTML.png)
+
 *Example of HTML syntax*
 
 ### CSS
 **CSS** (Cascading Style Sheets) is used to style and lay out web pages - for example, to change the font, color, size and spacing of your content, the split into multiple columns or add animations and other decorative elements.
 
 ![CSS](https://github.com/zidajoseph/assets/blob/master/images/CSS.png)
+
 *Example of CSS syntax*
 
 ### JavaScript
 **JavaScript** is a cross-platform, object-oriented scripting language. It is a light language which must be part of a host environment (a web browser for example) so that it can be used on the objects of this environment.
 
 ![JavaScript](https://github.com/zidajoseph/assets/blob/master/images/JavaScript.png)
+
 *Example of JavaScript syntax*
 
 ### Ruby algorithms 
@@ -28,6 +31,7 @@ It is a language that emphasizes simplicity and productivity.
 * **Algorithms** are a fundamental part of computing and play a key role in modern technological innovation. Additionally, learning basic algorithms is a good way to develop your problem-solving skills and better understand the software and programming languages you work with on a daily basis.
 
 ![Ruby](https://github.com/zidajoseph/assets/blob/master/images/Ruby.png)
+
 *Example of Ruby syntax*
 
 ### Github

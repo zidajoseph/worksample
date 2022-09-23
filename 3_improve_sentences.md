@@ -37,6 +37,7 @@ class MyClass
   end
 end
 ```
+
 MyClass.new.do_work
 ## "variable"  => puts water
 ## "method"    => puts self.water
